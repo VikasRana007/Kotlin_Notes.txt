@@ -1,0 +1,3 @@
+interface  Person {
+    fun age()
+}
